@@ -1,7 +1,7 @@
 # TestVagrant Assginment
 
 Author: Lavanya Mutyala \
-mail: lavanyamutyla2005@gmail.com
+mail: lavanyamutyala2005@gmail.com
 
 ###### Setup and Execution
 
